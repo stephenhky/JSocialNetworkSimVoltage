@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SocialNetworkSimVol/SocialNetworSimVolConsole.iml" filepath="$PROJECT_DIR$/SocialNetworkSimVol/SocialNetworSimVolConsole.iml" />
       <module fileurl="file://$PROJECT_DIR$/SocialNetworkSimVol/SocialNetworkSimVol.iml" filepath="$PROJECT_DIR$/SocialNetworkSimVol/SocialNetworkSimVol.iml" />
     </modules>
   </component>
