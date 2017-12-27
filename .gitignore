@@ -427,3 +427,6 @@ Temporary Items
 # Compiled Static libraries
 
 # Executables
+
+# IML files
+*.iml
